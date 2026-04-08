@@ -4,7 +4,7 @@ A production-style, responsive wall-calendar web application built for a fronten
 
 ## Live Links
 - Live Demo: https://tuf-assignment-roan.vercel.app/
-- Video Walkthrough: 
+- Video Walkthrough: https://drive.google.com/file/d/1FlDxesWFDKCII6PF7Wk0JdmYns7yKz9o/view?usp=sharing
 
 ## Project Highlights
 - Photorealistic wall-calendar layout with a hero image, spiral binding, and geometric month header.
