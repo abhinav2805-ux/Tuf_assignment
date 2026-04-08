@@ -3,8 +3,8 @@
 A production-style, responsive wall-calendar web application built for a frontend engineering challenge. The UI is inspired by physical wall calendars and includes smooth month transitions, date-range selection, and persistent notes.
 
 ## Live Links
-- Live Demo: [Add Vercel/Netlify URL]
-- Video Walkthrough: [Add Loom/YouTube URL]
+- Live Demo: 
+- Video Walkthrough: 
 
 ## Project Highlights
 - Photorealistic wall-calendar layout with a hero image, spiral binding, and geometric month header.
@@ -42,9 +42,9 @@ A production-style, responsive wall-calendar web application built for a fronten
 
 ### Installation
 1. Clone the repository:
-   - `git clone <your-repository-url>`
+   - `git clone https://github.com/abhinav2805-ux/Tuf_assignment`
 2. Move into the project folder:
-   - `cd Assignment`
+   - `cd Tuf_assignment`
 3. Install dependencies:
    - `npm install`
 
