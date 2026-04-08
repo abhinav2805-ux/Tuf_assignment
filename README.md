@@ -3,7 +3,7 @@
 A production-style, responsive wall-calendar web application built for a frontend engineering challenge. The UI is inspired by physical wall calendars and includes smooth month transitions, date-range selection, and persistent notes.
 
 ## Live Links
-- Live Demo: 
+- Live Demo: https://tuf-assignment-roan.vercel.app/
 - Video Walkthrough: 
 
 ## Project Highlights
